@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/RectangleApplication/RectangleApplication/bin/Debug/netcoreapp3.1/RectangleApplication.deps.json
+/Users/saultobias/Projects/RectangleApplication/RectangleApplication/bin/Debug/netcoreapp3.1/RectangleApplication.runtimeconfig.json
+/Users/saultobias/Projects/RectangleApplication/RectangleApplication/bin/Debug/netcoreapp3.1/RectangleApplication.runtimeconfig.dev.json
+/Users/saultobias/Projects/RectangleApplication/RectangleApplication/bin/Debug/netcoreapp3.1/RectangleApplication.dll
+/Users/saultobias/Projects/RectangleApplication/RectangleApplication/bin/Debug/netcoreapp3.1/RectangleApplication.pdb
+/Users/saultobias/Projects/RectangleApplication/RectangleApplication/obj/Debug/netcoreapp3.1/RectangleApplication.csprojAssemblyReference.cache
+/Users/saultobias/Projects/RectangleApplication/RectangleApplication/obj/Debug/netcoreapp3.1/RectangleApplication.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/RectangleApplication/RectangleApplication/obj/Debug/netcoreapp3.1/RectangleApplication.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/RectangleApplication/RectangleApplication/obj/Debug/netcoreapp3.1/RectangleApplication.AssemblyInfo.cs
+/Users/saultobias/Projects/RectangleApplication/RectangleApplication/obj/Debug/netcoreapp3.1/RectangleApplication.dll
+/Users/saultobias/Projects/RectangleApplication/RectangleApplication/obj/Debug/netcoreapp3.1/RectangleApplication.pdb
+/Users/saultobias/Projects/RectangleApplication/RectangleApplication/obj/Debug/netcoreapp3.1/RectangleApplication.genruntimeconfig.cache

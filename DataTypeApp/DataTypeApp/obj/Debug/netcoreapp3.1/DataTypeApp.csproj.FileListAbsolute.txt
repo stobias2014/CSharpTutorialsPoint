@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/DataTypeApp/DataTypeApp/bin/Debug/netcoreapp3.1/DataTypeApp.deps.json
+/Users/saultobias/Projects/DataTypeApp/DataTypeApp/bin/Debug/netcoreapp3.1/DataTypeApp.runtimeconfig.json
+/Users/saultobias/Projects/DataTypeApp/DataTypeApp/bin/Debug/netcoreapp3.1/DataTypeApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/DataTypeApp/DataTypeApp/bin/Debug/netcoreapp3.1/DataTypeApp.dll
+/Users/saultobias/Projects/DataTypeApp/DataTypeApp/bin/Debug/netcoreapp3.1/DataTypeApp.pdb
+/Users/saultobias/Projects/DataTypeApp/DataTypeApp/obj/Debug/netcoreapp3.1/DataTypeApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/DataTypeApp/DataTypeApp/obj/Debug/netcoreapp3.1/DataTypeApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/DataTypeApp/DataTypeApp/obj/Debug/netcoreapp3.1/DataTypeApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/DataTypeApp/DataTypeApp/obj/Debug/netcoreapp3.1/DataTypeApp.AssemblyInfo.cs
+/Users/saultobias/Projects/DataTypeApp/DataTypeApp/obj/Debug/netcoreapp3.1/DataTypeApp.dll
+/Users/saultobias/Projects/DataTypeApp/DataTypeApp/obj/Debug/netcoreapp3.1/DataTypeApp.pdb
+/Users/saultobias/Projects/DataTypeApp/DataTypeApp/obj/Debug/netcoreapp3.1/DataTypeApp.genruntimeconfig.cache
