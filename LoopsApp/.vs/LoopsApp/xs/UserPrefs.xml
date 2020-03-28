@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{EC3CC28C-2BEF-49EF-B79F-1F2FEA18E6E8}|Default">
-  <MonoDevelop.Ide.ItemProperties.DecisionMakingApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DecisionMakingApp/Program.cs">
+﻿<Properties StartupConfiguration="{10A108A9-D6AA-4BE8-B5C7-D21F7042E6F3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoopsApp/Program.cs">
     <Files>
-      <File FileName="DecisionMakingApp/Program.cs" Line="18" Column="80" />
+      <File FileName="LoopsApp/Program.cs" Line="9" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DecisionMakingApp" expanded="True">
-            <Node name="DecisionMakingApp" expanded="True">
+          <Node name="LoopsApp" expanded="True">
+            <Node name="LoopsApp" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -19,6 +18,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LoopsApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

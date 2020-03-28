@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/LoopsApp/LoopsApp/bin/Debug/netcoreapp3.1/LoopsApp.deps.json
+/Users/saultobias/Projects/LoopsApp/LoopsApp/bin/Debug/netcoreapp3.1/LoopsApp.runtimeconfig.json
+/Users/saultobias/Projects/LoopsApp/LoopsApp/bin/Debug/netcoreapp3.1/LoopsApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/LoopsApp/LoopsApp/bin/Debug/netcoreapp3.1/LoopsApp.dll
+/Users/saultobias/Projects/LoopsApp/LoopsApp/bin/Debug/netcoreapp3.1/LoopsApp.pdb
+/Users/saultobias/Projects/LoopsApp/LoopsApp/obj/Debug/netcoreapp3.1/LoopsApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/LoopsApp/LoopsApp/obj/Debug/netcoreapp3.1/LoopsApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/LoopsApp/LoopsApp/obj/Debug/netcoreapp3.1/LoopsApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/LoopsApp/LoopsApp/obj/Debug/netcoreapp3.1/LoopsApp.AssemblyInfo.cs
+/Users/saultobias/Projects/LoopsApp/LoopsApp/obj/Debug/netcoreapp3.1/LoopsApp.dll
+/Users/saultobias/Projects/LoopsApp/LoopsApp/obj/Debug/netcoreapp3.1/LoopsApp.pdb
+/Users/saultobias/Projects/LoopsApp/LoopsApp/obj/Debug/netcoreapp3.1/LoopsApp.genruntimeconfig.cache
