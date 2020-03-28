@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/DeclaringConstantsApp/DeclaringConstantsApp/bin/Debug/netcoreapp3.1/DeclaringConstantsApp.deps.json
+/Users/saultobias/Projects/DeclaringConstantsApp/DeclaringConstantsApp/bin/Debug/netcoreapp3.1/DeclaringConstantsApp.runtimeconfig.json
+/Users/saultobias/Projects/DeclaringConstantsApp/DeclaringConstantsApp/bin/Debug/netcoreapp3.1/DeclaringConstantsApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/DeclaringConstantsApp/DeclaringConstantsApp/bin/Debug/netcoreapp3.1/DeclaringConstantsApp.dll
+/Users/saultobias/Projects/DeclaringConstantsApp/DeclaringConstantsApp/bin/Debug/netcoreapp3.1/DeclaringConstantsApp.pdb
+/Users/saultobias/Projects/DeclaringConstantsApp/DeclaringConstantsApp/obj/Debug/netcoreapp3.1/DeclaringConstantsApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/DeclaringConstantsApp/DeclaringConstantsApp/obj/Debug/netcoreapp3.1/DeclaringConstantsApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/DeclaringConstantsApp/DeclaringConstantsApp/obj/Debug/netcoreapp3.1/DeclaringConstantsApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/DeclaringConstantsApp/DeclaringConstantsApp/obj/Debug/netcoreapp3.1/DeclaringConstantsApp.AssemblyInfo.cs
+/Users/saultobias/Projects/DeclaringConstantsApp/DeclaringConstantsApp/obj/Debug/netcoreapp3.1/DeclaringConstantsApp.dll
+/Users/saultobias/Projects/DeclaringConstantsApp/DeclaringConstantsApp/obj/Debug/netcoreapp3.1/DeclaringConstantsApp.pdb
+/Users/saultobias/Projects/DeclaringConstantsApp/DeclaringConstantsApp/obj/Debug/netcoreapp3.1/DeclaringConstantsApp.genruntimeconfig.cache

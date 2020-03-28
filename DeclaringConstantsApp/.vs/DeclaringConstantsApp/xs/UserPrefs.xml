@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{11E73F8A-5111-476B-8824-8C52AF9C736E}|Default">
-  <MonoDevelop.Ide.ItemProperties.VariableDefinitionApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="VariableDefinitionApp/Program.cs">
+﻿<Properties StartupConfiguration="{D56E608B-D258-4EB0-AE19-0E96D6954516}|Default">
+  <MonoDevelop.Ide.ItemProperties.DeclaringConstantsApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeclaringConstantsApp/Program.cs">
     <Files>
-      <File FileName="VariableDefinitionApp/Program.cs" Line="28" Column="29" />
+      <File FileName="DeclaringConstantsApp/Program.cs" Line="9" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="VariableDefinitionApp" expanded="True">
-            <Node name="VariableDefinitionApp" expanded="True">
+          <Node name="DeclaringConstantsApp" expanded="True">
+            <Node name="DeclaringConstantsApp" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
