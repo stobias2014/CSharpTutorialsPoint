@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{B51A941D-61D3-44A9-8B86-F70126BB4B0B}|Default">
-  <MonoDevelop.Ide.ItemProperties.OperatorsApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="OperatorsApp/Program.cs">
+﻿<Properties StartupConfiguration="{EC3CC28C-2BEF-49EF-B79F-1F2FEA18E6E8}|Default">
+  <MonoDevelop.Ide.ItemProperties.DecisionMakingApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DecisionMakingApp/Program.cs">
     <Files>
-      <File FileName="OperatorsApp/Program.cs" Line="27" Column="44" />
+      <File FileName="DecisionMakingApp/Program.cs" Line="9" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="OperatorsApp" expanded="True">
-            <Node name="OperatorsApp" expanded="True">
+          <Node name="DecisionMakingApp" expanded="True">
+            <Node name="DecisionMakingApp" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

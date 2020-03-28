@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/DecisionMakingApp/DecisionMakingApp/bin/Debug/netcoreapp3.1/DecisionMakingApp.deps.json
+/Users/saultobias/Projects/DecisionMakingApp/DecisionMakingApp/bin/Debug/netcoreapp3.1/DecisionMakingApp.runtimeconfig.json
+/Users/saultobias/Projects/DecisionMakingApp/DecisionMakingApp/bin/Debug/netcoreapp3.1/DecisionMakingApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/DecisionMakingApp/DecisionMakingApp/bin/Debug/netcoreapp3.1/DecisionMakingApp.dll
+/Users/saultobias/Projects/DecisionMakingApp/DecisionMakingApp/bin/Debug/netcoreapp3.1/DecisionMakingApp.pdb
+/Users/saultobias/Projects/DecisionMakingApp/DecisionMakingApp/obj/Debug/netcoreapp3.1/DecisionMakingApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/DecisionMakingApp/DecisionMakingApp/obj/Debug/netcoreapp3.1/DecisionMakingApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/DecisionMakingApp/DecisionMakingApp/obj/Debug/netcoreapp3.1/DecisionMakingApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/DecisionMakingApp/DecisionMakingApp/obj/Debug/netcoreapp3.1/DecisionMakingApp.AssemblyInfo.cs
+/Users/saultobias/Projects/DecisionMakingApp/DecisionMakingApp/obj/Debug/netcoreapp3.1/DecisionMakingApp.dll
+/Users/saultobias/Projects/DecisionMakingApp/DecisionMakingApp/obj/Debug/netcoreapp3.1/DecisionMakingApp.pdb
+/Users/saultobias/Projects/DecisionMakingApp/DecisionMakingApp/obj/Debug/netcoreapp3.1/DecisionMakingApp.genruntimeconfig.cache
