@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{D56E608B-D258-4EB0-AE19-0E96D6954516}|Default">
-  <MonoDevelop.Ide.ItemProperties.DeclaringConstantsApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DeclaringConstantsApp/Program.cs">
+﻿<Properties StartupConfiguration="{B51A941D-61D3-44A9-8B86-F70126BB4B0B}|Default">
+  <MonoDevelop.Ide.ItemProperties.OperatorsApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OperatorsApp/Program.cs">
     <Files>
-      <File FileName="DeclaringConstantsApp/Program.cs" Line="23" Column="13" />
+      <File FileName="OperatorsApp/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DeclaringConstantsApp" expanded="True">
-            <Node name="DeclaringConstantsApp" expanded="True">
+          <Node name="OperatorsApp" expanded="True">
+            <Node name="OperatorsApp" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

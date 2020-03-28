@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/OperatorsApp/OperatorsApp/obj/Debug/netcoreapp3.1/OperatorsApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/OperatorsApp/OperatorsApp/obj/Debug/netcoreapp3.1/OperatorsApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/OperatorsApp/OperatorsApp/obj/Debug/netcoreapp3.1/OperatorsApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/OperatorsApp/OperatorsApp/obj/Debug/netcoreapp3.1/OperatorsApp.AssemblyInfo.cs
+/Users/saultobias/Projects/OperatorsApp/OperatorsApp/bin/Debug/netcoreapp3.1/OperatorsApp.deps.json
+/Users/saultobias/Projects/OperatorsApp/OperatorsApp/bin/Debug/netcoreapp3.1/OperatorsApp.runtimeconfig.json
+/Users/saultobias/Projects/OperatorsApp/OperatorsApp/bin/Debug/netcoreapp3.1/OperatorsApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/OperatorsApp/OperatorsApp/bin/Debug/netcoreapp3.1/OperatorsApp.dll
+/Users/saultobias/Projects/OperatorsApp/OperatorsApp/bin/Debug/netcoreapp3.1/OperatorsApp.pdb
+/Users/saultobias/Projects/OperatorsApp/OperatorsApp/obj/Debug/netcoreapp3.1/OperatorsApp.dll
+/Users/saultobias/Projects/OperatorsApp/OperatorsApp/obj/Debug/netcoreapp3.1/OperatorsApp.pdb
+/Users/saultobias/Projects/OperatorsApp/OperatorsApp/obj/Debug/netcoreapp3.1/OperatorsApp.genruntimeconfig.cache
