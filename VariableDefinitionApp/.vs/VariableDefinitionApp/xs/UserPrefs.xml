@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{181118AE-E291-4EC9-8211-DBEC4715F8BE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TypeConversionApp/Program.cs">
+﻿<Properties StartupConfiguration="{11E73F8A-5111-476B-8824-8C52AF9C736E}|Default">
+  <MonoDevelop.Ide.ItemProperties.VariableDefinitionApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VariableDefinitionApp/Program.cs">
     <Files>
-      <File FileName="TypeConversionApp/Program.cs" Line="27" Column="65" />
+      <File FileName="VariableDefinitionApp/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TypeConversionApp" expanded="True">
-            <Node name="TypeConversionApp" expanded="True">
+          <Node name="VariableDefinitionApp" expanded="True">
+            <Node name="VariableDefinitionApp" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,7 +19,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.TypeConversionApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/VariableDefinitionApp/VariableDefinitionApp/bin/Debug/netcoreapp3.1/VariableDefinitionApp.deps.json
+/Users/saultobias/Projects/VariableDefinitionApp/VariableDefinitionApp/bin/Debug/netcoreapp3.1/VariableDefinitionApp.runtimeconfig.json
+/Users/saultobias/Projects/VariableDefinitionApp/VariableDefinitionApp/bin/Debug/netcoreapp3.1/VariableDefinitionApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/VariableDefinitionApp/VariableDefinitionApp/bin/Debug/netcoreapp3.1/VariableDefinitionApp.dll
+/Users/saultobias/Projects/VariableDefinitionApp/VariableDefinitionApp/bin/Debug/netcoreapp3.1/VariableDefinitionApp.pdb
+/Users/saultobias/Projects/VariableDefinitionApp/VariableDefinitionApp/obj/Debug/netcoreapp3.1/VariableDefinitionApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/VariableDefinitionApp/VariableDefinitionApp/obj/Debug/netcoreapp3.1/VariableDefinitionApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/VariableDefinitionApp/VariableDefinitionApp/obj/Debug/netcoreapp3.1/VariableDefinitionApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/VariableDefinitionApp/VariableDefinitionApp/obj/Debug/netcoreapp3.1/VariableDefinitionApp.AssemblyInfo.cs
+/Users/saultobias/Projects/VariableDefinitionApp/VariableDefinitionApp/obj/Debug/netcoreapp3.1/VariableDefinitionApp.dll
+/Users/saultobias/Projects/VariableDefinitionApp/VariableDefinitionApp/obj/Debug/netcoreapp3.1/VariableDefinitionApp.pdb
+/Users/saultobias/Projects/VariableDefinitionApp/VariableDefinitionApp/obj/Debug/netcoreapp3.1/VariableDefinitionApp.genruntimeconfig.cache
