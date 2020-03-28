@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/TypeConversionApp/TypeConversionApp/bin/Debug/netcoreapp3.1/TypeConversionApp.deps.json
+/Users/saultobias/Projects/TypeConversionApp/TypeConversionApp/bin/Debug/netcoreapp3.1/TypeConversionApp.runtimeconfig.json
+/Users/saultobias/Projects/TypeConversionApp/TypeConversionApp/bin/Debug/netcoreapp3.1/TypeConversionApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/TypeConversionApp/TypeConversionApp/bin/Debug/netcoreapp3.1/TypeConversionApp.dll
+/Users/saultobias/Projects/TypeConversionApp/TypeConversionApp/bin/Debug/netcoreapp3.1/TypeConversionApp.pdb
+/Users/saultobias/Projects/TypeConversionApp/TypeConversionApp/obj/Debug/netcoreapp3.1/TypeConversionApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/TypeConversionApp/TypeConversionApp/obj/Debug/netcoreapp3.1/TypeConversionApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/TypeConversionApp/TypeConversionApp/obj/Debug/netcoreapp3.1/TypeConversionApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/TypeConversionApp/TypeConversionApp/obj/Debug/netcoreapp3.1/TypeConversionApp.AssemblyInfo.cs
+/Users/saultobias/Projects/TypeConversionApp/TypeConversionApp/obj/Debug/netcoreapp3.1/TypeConversionApp.dll
+/Users/saultobias/Projects/TypeConversionApp/TypeConversionApp/obj/Debug/netcoreapp3.1/TypeConversionApp.pdb
+/Users/saultobias/Projects/TypeConversionApp/TypeConversionApp/obj/Debug/netcoreapp3.1/TypeConversionApp.genruntimeconfig.cache
