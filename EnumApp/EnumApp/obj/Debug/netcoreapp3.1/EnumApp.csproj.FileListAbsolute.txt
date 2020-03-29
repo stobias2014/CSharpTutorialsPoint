@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/EnumApp/EnumApp/bin/Debug/netcoreapp3.1/EnumApp.deps.json
+/Users/saultobias/Projects/EnumApp/EnumApp/bin/Debug/netcoreapp3.1/EnumApp.runtimeconfig.json
+/Users/saultobias/Projects/EnumApp/EnumApp/bin/Debug/netcoreapp3.1/EnumApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/EnumApp/EnumApp/bin/Debug/netcoreapp3.1/EnumApp.dll
+/Users/saultobias/Projects/EnumApp/EnumApp/bin/Debug/netcoreapp3.1/EnumApp.pdb
+/Users/saultobias/Projects/EnumApp/EnumApp/obj/Debug/netcoreapp3.1/EnumApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/EnumApp/EnumApp/obj/Debug/netcoreapp3.1/EnumApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/EnumApp/EnumApp/obj/Debug/netcoreapp3.1/EnumApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/EnumApp/EnumApp/obj/Debug/netcoreapp3.1/EnumApp.AssemblyInfo.cs
+/Users/saultobias/Projects/EnumApp/EnumApp/obj/Debug/netcoreapp3.1/EnumApp.dll
+/Users/saultobias/Projects/EnumApp/EnumApp/obj/Debug/netcoreapp3.1/EnumApp.pdb
+/Users/saultobias/Projects/EnumApp/EnumApp/obj/Debug/netcoreapp3.1/EnumApp.genruntimeconfig.cache

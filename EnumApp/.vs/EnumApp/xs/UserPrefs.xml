@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{7DD8ED51-539F-4D84-A13D-176CE09164D1}|Default">
-  <MonoDevelop.Ide.ItemProperties.StructApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StructApp/Program.cs">
+﻿<Properties StartupConfiguration="{EBB51296-EDCD-4888-924C-71FAA5BBB71F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnumApp/Program.cs">
     <Files>
-      <File FileName="StructApp/Program.cs" Line="15" Column="75" />
+      <File FileName="EnumApp/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="StructApp" expanded="True">
-            <Node name="StructApp" expanded="True">
+          <Node name="EnumApp" expanded="True">
+            <Node name="EnumApp" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,6 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.EnumApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
