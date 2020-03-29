@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/InheritanceApp/InheritanceApp/bin/Debug/netcoreapp3.1/InheritanceApp.deps.json
+/Users/saultobias/Projects/InheritanceApp/InheritanceApp/bin/Debug/netcoreapp3.1/InheritanceApp.runtimeconfig.json
+/Users/saultobias/Projects/InheritanceApp/InheritanceApp/bin/Debug/netcoreapp3.1/InheritanceApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/InheritanceApp/InheritanceApp/bin/Debug/netcoreapp3.1/InheritanceApp.dll
+/Users/saultobias/Projects/InheritanceApp/InheritanceApp/bin/Debug/netcoreapp3.1/InheritanceApp.pdb
+/Users/saultobias/Projects/InheritanceApp/InheritanceApp/obj/Debug/netcoreapp3.1/InheritanceApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/InheritanceApp/InheritanceApp/obj/Debug/netcoreapp3.1/InheritanceApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/InheritanceApp/InheritanceApp/obj/Debug/netcoreapp3.1/InheritanceApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/InheritanceApp/InheritanceApp/obj/Debug/netcoreapp3.1/InheritanceApp.AssemblyInfo.cs
+/Users/saultobias/Projects/InheritanceApp/InheritanceApp/obj/Debug/netcoreapp3.1/InheritanceApp.dll
+/Users/saultobias/Projects/InheritanceApp/InheritanceApp/obj/Debug/netcoreapp3.1/InheritanceApp.pdb
+/Users/saultobias/Projects/InheritanceApp/InheritanceApp/obj/Debug/netcoreapp3.1/InheritanceApp.genruntimeconfig.cache

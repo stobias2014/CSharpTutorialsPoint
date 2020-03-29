@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{FC64A4F9-6296-4C05-8C47-97CA7B4F2997}|Default">
-  <MonoDevelop.Ide.ItemProperties.BoxApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BoxApp/Program.cs">
+﻿<Properties StartupConfiguration="{EDD81A82-4909-411A-A345-19B68A706C6A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InheritanceApp/Program.cs">
     <Files>
-      <File FileName="BoxApp/Program.cs" Line="15" Column="24" />
+      <File FileName="InheritanceApp/Program.cs" Line="3" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BoxApp" expanded="True">
-            <Node name="BoxApp" expanded="True">
+          <Node name="InheritanceApp" expanded="True">
+            <Node name="InheritanceApp" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,6 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.InheritanceApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
