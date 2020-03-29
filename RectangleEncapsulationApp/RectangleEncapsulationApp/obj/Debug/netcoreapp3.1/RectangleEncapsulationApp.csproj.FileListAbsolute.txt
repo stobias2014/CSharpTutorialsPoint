@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/RectangleEncapsulationApp/RectangleEncapsulationApp/bin/Debug/netcoreapp3.1/RectangleEncapsulationApp.deps.json
+/Users/saultobias/Projects/RectangleEncapsulationApp/RectangleEncapsulationApp/bin/Debug/netcoreapp3.1/RectangleEncapsulationApp.runtimeconfig.json
+/Users/saultobias/Projects/RectangleEncapsulationApp/RectangleEncapsulationApp/bin/Debug/netcoreapp3.1/RectangleEncapsulationApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/RectangleEncapsulationApp/RectangleEncapsulationApp/bin/Debug/netcoreapp3.1/RectangleEncapsulationApp.dll
+/Users/saultobias/Projects/RectangleEncapsulationApp/RectangleEncapsulationApp/bin/Debug/netcoreapp3.1/RectangleEncapsulationApp.pdb
+/Users/saultobias/Projects/RectangleEncapsulationApp/RectangleEncapsulationApp/obj/Debug/netcoreapp3.1/RectangleEncapsulationApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/RectangleEncapsulationApp/RectangleEncapsulationApp/obj/Debug/netcoreapp3.1/RectangleEncapsulationApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/RectangleEncapsulationApp/RectangleEncapsulationApp/obj/Debug/netcoreapp3.1/RectangleEncapsulationApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/RectangleEncapsulationApp/RectangleEncapsulationApp/obj/Debug/netcoreapp3.1/RectangleEncapsulationApp.AssemblyInfo.cs
+/Users/saultobias/Projects/RectangleEncapsulationApp/RectangleEncapsulationApp/obj/Debug/netcoreapp3.1/RectangleEncapsulationApp.dll
+/Users/saultobias/Projects/RectangleEncapsulationApp/RectangleEncapsulationApp/obj/Debug/netcoreapp3.1/RectangleEncapsulationApp.pdb
+/Users/saultobias/Projects/RectangleEncapsulationApp/RectangleEncapsulationApp/obj/Debug/netcoreapp3.1/RectangleEncapsulationApp.genruntimeconfig.cache

@@ -1,25 +1,22 @@
-﻿<Properties StartupConfiguration="{10A108A9-D6AA-4BE8-B5C7-D21F7042E6F3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LoopsApp/Program.cs">
+﻿<Properties StartupConfiguration="{3F8896E2-701E-4B5E-8DE9-85A1F53B6EF3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RectangleEncapsulationApp/Program.cs">
     <Files>
-      <File FileName="LoopsApp/Program.cs" Line="39" Column="105" />
+      <File FileName="RectangleEncapsulationApp/Program.cs" Line="5" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="LoopsApp" expanded="True">
-            <Node name="LoopsApp" expanded="True">
+          <Node name="RectangleEncapsulationApp" expanded="True">
+            <Node name="RectangleEncapsulationApp" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.LoopsApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RectangleEncapsulationApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
