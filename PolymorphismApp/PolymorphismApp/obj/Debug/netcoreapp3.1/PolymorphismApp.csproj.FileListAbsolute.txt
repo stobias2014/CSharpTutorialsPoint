@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/PolymorphismApp/PolymorphismApp/bin/Debug/netcoreapp3.1/PolymorphismApp.deps.json
+/Users/saultobias/Projects/PolymorphismApp/PolymorphismApp/bin/Debug/netcoreapp3.1/PolymorphismApp.runtimeconfig.json
+/Users/saultobias/Projects/PolymorphismApp/PolymorphismApp/bin/Debug/netcoreapp3.1/PolymorphismApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/PolymorphismApp/PolymorphismApp/bin/Debug/netcoreapp3.1/PolymorphismApp.dll
+/Users/saultobias/Projects/PolymorphismApp/PolymorphismApp/bin/Debug/netcoreapp3.1/PolymorphismApp.pdb
+/Users/saultobias/Projects/PolymorphismApp/PolymorphismApp/obj/Debug/netcoreapp3.1/PolymorphismApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/PolymorphismApp/PolymorphismApp/obj/Debug/netcoreapp3.1/PolymorphismApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/PolymorphismApp/PolymorphismApp/obj/Debug/netcoreapp3.1/PolymorphismApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/PolymorphismApp/PolymorphismApp/obj/Debug/netcoreapp3.1/PolymorphismApp.AssemblyInfo.cs
+/Users/saultobias/Projects/PolymorphismApp/PolymorphismApp/obj/Debug/netcoreapp3.1/PolymorphismApp.dll
+/Users/saultobias/Projects/PolymorphismApp/PolymorphismApp/obj/Debug/netcoreapp3.1/PolymorphismApp.pdb
+/Users/saultobias/Projects/PolymorphismApp/PolymorphismApp/obj/Debug/netcoreapp3.1/PolymorphismApp.genruntimeconfig.cache
