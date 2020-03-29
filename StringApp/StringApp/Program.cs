@@ -32,8 +32,6 @@ namespace StringApp
             string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
             Console.WriteLine("Message: {0}\n", chat);
 
-            
-
         }
     }
 }
