@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/DynamicPolymorphismApp/DynamicPolymorphismApp/bin/Debug/netcoreapp3.1/DynamicPolymorphismApp.deps.json
+/Users/saultobias/Projects/DynamicPolymorphismApp/DynamicPolymorphismApp/bin/Debug/netcoreapp3.1/DynamicPolymorphismApp.runtimeconfig.json
+/Users/saultobias/Projects/DynamicPolymorphismApp/DynamicPolymorphismApp/bin/Debug/netcoreapp3.1/DynamicPolymorphismApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/DynamicPolymorphismApp/DynamicPolymorphismApp/bin/Debug/netcoreapp3.1/DynamicPolymorphismApp.dll
+/Users/saultobias/Projects/DynamicPolymorphismApp/DynamicPolymorphismApp/bin/Debug/netcoreapp3.1/DynamicPolymorphismApp.pdb
+/Users/saultobias/Projects/DynamicPolymorphismApp/DynamicPolymorphismApp/obj/Debug/netcoreapp3.1/DynamicPolymorphismApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/DynamicPolymorphismApp/DynamicPolymorphismApp/obj/Debug/netcoreapp3.1/DynamicPolymorphismApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/DynamicPolymorphismApp/DynamicPolymorphismApp/obj/Debug/netcoreapp3.1/DynamicPolymorphismApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/DynamicPolymorphismApp/DynamicPolymorphismApp/obj/Debug/netcoreapp3.1/DynamicPolymorphismApp.AssemblyInfo.cs
+/Users/saultobias/Projects/DynamicPolymorphismApp/DynamicPolymorphismApp/obj/Debug/netcoreapp3.1/DynamicPolymorphismApp.dll
+/Users/saultobias/Projects/DynamicPolymorphismApp/DynamicPolymorphismApp/obj/Debug/netcoreapp3.1/DynamicPolymorphismApp.pdb
+/Users/saultobias/Projects/DynamicPolymorphismApp/DynamicPolymorphismApp/obj/Debug/netcoreapp3.1/DynamicPolymorphismApp.genruntimeconfig.cache
