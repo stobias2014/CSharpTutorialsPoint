@@ -1,8 +1,5 @@
 ﻿<Properties StartupConfiguration="{4B419C7C-2DFE-4EB6-9450-0E4F0D7CC0D4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayApp/Program.cs">
-    <Files>
-      <File FileName="ArrayApp/Program.cs" Line="9" Column="16" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -15,7 +12,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ArrayApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ArrayApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
