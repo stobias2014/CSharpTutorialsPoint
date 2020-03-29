@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/StructApp/StructApp/bin/Debug/netcoreapp3.1/StructApp.deps.json
+/Users/saultobias/Projects/StructApp/StructApp/bin/Debug/netcoreapp3.1/StructApp.runtimeconfig.json
+/Users/saultobias/Projects/StructApp/StructApp/bin/Debug/netcoreapp3.1/StructApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/StructApp/StructApp/bin/Debug/netcoreapp3.1/StructApp.dll
+/Users/saultobias/Projects/StructApp/StructApp/bin/Debug/netcoreapp3.1/StructApp.pdb
+/Users/saultobias/Projects/StructApp/StructApp/obj/Debug/netcoreapp3.1/StructApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/StructApp/StructApp/obj/Debug/netcoreapp3.1/StructApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/StructApp/StructApp/obj/Debug/netcoreapp3.1/StructApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/StructApp/StructApp/obj/Debug/netcoreapp3.1/StructApp.AssemblyInfo.cs
+/Users/saultobias/Projects/StructApp/StructApp/obj/Debug/netcoreapp3.1/StructApp.dll
+/Users/saultobias/Projects/StructApp/StructApp/obj/Debug/netcoreapp3.1/StructApp.pdb
+/Users/saultobias/Projects/StructApp/StructApp/obj/Debug/netcoreapp3.1/StructApp.genruntimeconfig.cache

@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{A7A62396-4166-4719-A909-8AFBD2B6CD1F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="StringApp/Program.cs">
+﻿<Properties StartupConfiguration="{7DD8ED51-539F-4D84-A13D-176CE09164D1}|Default">
+  <MonoDevelop.Ide.ItemProperties.StructApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StructApp/Program.cs">
     <Files>
-      <File FileName="StringApp/Program.cs" Line="34" Column="1" />
+      <File FileName="StructApp/Program.cs" Line="4" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="StringApp" expanded="True">
-            <Node name="StringApp" expanded="True">
+          <Node name="StructApp" expanded="True">
+            <Node name="StructApp" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,7 +17,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.StringApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
