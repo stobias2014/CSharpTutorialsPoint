@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{5D28ACBE-A0CA-4809-9370-64B5BED73E0A}|Default">
-  <MonoDevelop.Ide.ItemProperties.DynamicPolymorphismApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DynamicPolymorphismApp/Program.cs">
+﻿<Properties StartupConfiguration="{04A42F59-F22D-4BBB-860E-172253E9A8D2}|Default">
+  <MonoDevelop.Ide.ItemProperties.VirtualFuntionApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VirtualFuntionApp/Program.cs">
     <Files>
-      <File FileName="DynamicPolymorphismApp/Program.cs" Line="74" Column="25" />
+      <File FileName="VirtualFuntionApp/Program.cs" Line="1" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DynamicPolymorphismApp" expanded="True">
-            <Node name="DynamicPolymorphismApp" expanded="True">
+          <Node name="VirtualFuntionApp" expanded="True">
+            <Node name="VirtualFuntionApp" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

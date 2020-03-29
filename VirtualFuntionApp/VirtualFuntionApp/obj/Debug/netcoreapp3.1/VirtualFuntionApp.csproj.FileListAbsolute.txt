@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/VirtualFuntionApp/VirtualFuntionApp/bin/Debug/netcoreapp3.1/VirtualFuntionApp.deps.json
+/Users/saultobias/Projects/VirtualFuntionApp/VirtualFuntionApp/bin/Debug/netcoreapp3.1/VirtualFuntionApp.runtimeconfig.json
+/Users/saultobias/Projects/VirtualFuntionApp/VirtualFuntionApp/bin/Debug/netcoreapp3.1/VirtualFuntionApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/VirtualFuntionApp/VirtualFuntionApp/bin/Debug/netcoreapp3.1/VirtualFuntionApp.dll
+/Users/saultobias/Projects/VirtualFuntionApp/VirtualFuntionApp/bin/Debug/netcoreapp3.1/VirtualFuntionApp.pdb
+/Users/saultobias/Projects/VirtualFuntionApp/VirtualFuntionApp/obj/Debug/netcoreapp3.1/VirtualFuntionApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/VirtualFuntionApp/VirtualFuntionApp/obj/Debug/netcoreapp3.1/VirtualFuntionApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/VirtualFuntionApp/VirtualFuntionApp/obj/Debug/netcoreapp3.1/VirtualFuntionApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/VirtualFuntionApp/VirtualFuntionApp/obj/Debug/netcoreapp3.1/VirtualFuntionApp.AssemblyInfo.cs
+/Users/saultobias/Projects/VirtualFuntionApp/VirtualFuntionApp/obj/Debug/netcoreapp3.1/VirtualFuntionApp.dll
+/Users/saultobias/Projects/VirtualFuntionApp/VirtualFuntionApp/obj/Debug/netcoreapp3.1/VirtualFuntionApp.pdb
+/Users/saultobias/Projects/VirtualFuntionApp/VirtualFuntionApp/obj/Debug/netcoreapp3.1/VirtualFuntionApp.genruntimeconfig.cache
