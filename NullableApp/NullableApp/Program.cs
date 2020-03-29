@@ -22,6 +22,7 @@ namespace NullableApp
             Console.WriteLine("Nullable bool: {0}\n", b);
 
             //5.1 default value
+            //?? coelescing operator
             d3 = d1 ?? 5.1;
             Console.WriteLine("?? can be used to assign some default value.");
             Console.WriteLine("d3 = {0}", d3);

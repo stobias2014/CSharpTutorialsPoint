@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{50AEEB23-9B82-4404-AF8D-4618F7A1EF35}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="NullableApp/Program.cs">
+﻿<Properties StartupConfiguration="{4B419C7C-2DFE-4EB6-9450-0E4F0D7CC0D4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayApp/Program.cs">
     <Files>
-      <File FileName="NullableApp/Program.cs" Line="25" Column="37" />
+      <File FileName="ArrayApp/Program.cs" Line="9" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="NullableApp" expanded="True">
-            <Node name="NullableApp" expanded="True">
+          <Node name="ArrayApp" expanded="True">
+            <Node name="ArrayApp" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,9 +15,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ArrayApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.NullableApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/ArrayApp/ArrayApp/bin/Debug/netcoreapp3.1/ArrayApp.deps.json
+/Users/saultobias/Projects/ArrayApp/ArrayApp/bin/Debug/netcoreapp3.1/ArrayApp.runtimeconfig.json
+/Users/saultobias/Projects/ArrayApp/ArrayApp/bin/Debug/netcoreapp3.1/ArrayApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/ArrayApp/ArrayApp/bin/Debug/netcoreapp3.1/ArrayApp.dll
+/Users/saultobias/Projects/ArrayApp/ArrayApp/bin/Debug/netcoreapp3.1/ArrayApp.pdb
+/Users/saultobias/Projects/ArrayApp/ArrayApp/obj/Debug/netcoreapp3.1/ArrayApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/ArrayApp/ArrayApp/obj/Debug/netcoreapp3.1/ArrayApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/ArrayApp/ArrayApp/obj/Debug/netcoreapp3.1/ArrayApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/ArrayApp/ArrayApp/obj/Debug/netcoreapp3.1/ArrayApp.AssemblyInfo.cs
+/Users/saultobias/Projects/ArrayApp/ArrayApp/obj/Debug/netcoreapp3.1/ArrayApp.dll
+/Users/saultobias/Projects/ArrayApp/ArrayApp/obj/Debug/netcoreapp3.1/ArrayApp.pdb
+/Users/saultobias/Projects/ArrayApp/ArrayApp/obj/Debug/netcoreapp3.1/ArrayApp.genruntimeconfig.cache
