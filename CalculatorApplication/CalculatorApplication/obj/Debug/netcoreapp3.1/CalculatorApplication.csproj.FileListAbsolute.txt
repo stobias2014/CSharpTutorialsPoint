@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/CalculatorApplication/CalculatorApplication/bin/Debug/netcoreapp3.1/CalculatorApplication.deps.json
+/Users/saultobias/Projects/CalculatorApplication/CalculatorApplication/bin/Debug/netcoreapp3.1/CalculatorApplication.runtimeconfig.json
+/Users/saultobias/Projects/CalculatorApplication/CalculatorApplication/bin/Debug/netcoreapp3.1/CalculatorApplication.runtimeconfig.dev.json
+/Users/saultobias/Projects/CalculatorApplication/CalculatorApplication/bin/Debug/netcoreapp3.1/CalculatorApplication.dll
+/Users/saultobias/Projects/CalculatorApplication/CalculatorApplication/bin/Debug/netcoreapp3.1/CalculatorApplication.pdb
+/Users/saultobias/Projects/CalculatorApplication/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.csprojAssemblyReference.cache
+/Users/saultobias/Projects/CalculatorApplication/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/CalculatorApplication/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/CalculatorApplication/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.AssemblyInfo.cs
+/Users/saultobias/Projects/CalculatorApplication/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.dll
+/Users/saultobias/Projects/CalculatorApplication/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.pdb
+/Users/saultobias/Projects/CalculatorApplication/CalculatorApplication/obj/Debug/netcoreapp3.1/CalculatorApplication.genruntimeconfig.cache

@@ -1,22 +1,20 @@
 ﻿<Properties StartupConfiguration="{3F8896E2-701E-4B5E-8DE9-85A1F53B6EF3}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="RectangleEncapsulationApp/Program.cs">
     <Files>
-      <File FileName="RectangleEncapsulationApp/Program.cs" Line="5" Column="1" />
+      <File FileName="RectangleEncapsulationApp/Program.cs" Line="49" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RectangleEncapsulationApp" expanded="True">
-            <Node name="RectangleEncapsulationApp" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="RectangleEncapsulationApp" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.RectangleEncapsulationApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RectangleEncapsulationApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/NullableApp/NullableApp/bin/Debug/netcoreapp3.1/NullableApp.deps.json
+/Users/saultobias/Projects/NullableApp/NullableApp/bin/Debug/netcoreapp3.1/NullableApp.runtimeconfig.json
+/Users/saultobias/Projects/NullableApp/NullableApp/bin/Debug/netcoreapp3.1/NullableApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/NullableApp/NullableApp/bin/Debug/netcoreapp3.1/NullableApp.dll
+/Users/saultobias/Projects/NullableApp/NullableApp/bin/Debug/netcoreapp3.1/NullableApp.pdb
+/Users/saultobias/Projects/NullableApp/NullableApp/obj/Debug/netcoreapp3.1/NullableApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/NullableApp/NullableApp/obj/Debug/netcoreapp3.1/NullableApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/NullableApp/NullableApp/obj/Debug/netcoreapp3.1/NullableApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/NullableApp/NullableApp/obj/Debug/netcoreapp3.1/NullableApp.AssemblyInfo.cs
+/Users/saultobias/Projects/NullableApp/NullableApp/obj/Debug/netcoreapp3.1/NullableApp.dll
+/Users/saultobias/Projects/NullableApp/NullableApp/obj/Debug/netcoreapp3.1/NullableApp.pdb
+/Users/saultobias/Projects/NullableApp/NullableApp/obj/Debug/netcoreapp3.1/NullableApp.genruntimeconfig.cache
