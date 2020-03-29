@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/BoxApp/BoxApp/bin/Debug/netcoreapp3.1/BoxApp.deps.json
+/Users/saultobias/Projects/BoxApp/BoxApp/bin/Debug/netcoreapp3.1/BoxApp.runtimeconfig.json
+/Users/saultobias/Projects/BoxApp/BoxApp/bin/Debug/netcoreapp3.1/BoxApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/BoxApp/BoxApp/bin/Debug/netcoreapp3.1/BoxApp.dll
+/Users/saultobias/Projects/BoxApp/BoxApp/bin/Debug/netcoreapp3.1/BoxApp.pdb
+/Users/saultobias/Projects/BoxApp/BoxApp/obj/Debug/netcoreapp3.1/BoxApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/BoxApp/BoxApp/obj/Debug/netcoreapp3.1/BoxApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/BoxApp/BoxApp/obj/Debug/netcoreapp3.1/BoxApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/BoxApp/BoxApp/obj/Debug/netcoreapp3.1/BoxApp.AssemblyInfo.cs
+/Users/saultobias/Projects/BoxApp/BoxApp/obj/Debug/netcoreapp3.1/BoxApp.dll
+/Users/saultobias/Projects/BoxApp/BoxApp/obj/Debug/netcoreapp3.1/BoxApp.pdb
+/Users/saultobias/Projects/BoxApp/BoxApp/obj/Debug/netcoreapp3.1/BoxApp.genruntimeconfig.cache
