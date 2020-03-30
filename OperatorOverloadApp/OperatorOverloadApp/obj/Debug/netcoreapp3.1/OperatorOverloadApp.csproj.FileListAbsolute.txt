@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/OperatorOverloadApp/OperatorOverloadApp/bin/Debug/netcoreapp3.1/OperatorOverloadApp.deps.json
+/Users/saultobias/Projects/OperatorOverloadApp/OperatorOverloadApp/bin/Debug/netcoreapp3.1/OperatorOverloadApp.runtimeconfig.json
+/Users/saultobias/Projects/OperatorOverloadApp/OperatorOverloadApp/bin/Debug/netcoreapp3.1/OperatorOverloadApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/OperatorOverloadApp/OperatorOverloadApp/bin/Debug/netcoreapp3.1/OperatorOverloadApp.dll
+/Users/saultobias/Projects/OperatorOverloadApp/OperatorOverloadApp/bin/Debug/netcoreapp3.1/OperatorOverloadApp.pdb
+/Users/saultobias/Projects/OperatorOverloadApp/OperatorOverloadApp/obj/Debug/netcoreapp3.1/OperatorOverloadApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/OperatorOverloadApp/OperatorOverloadApp/obj/Debug/netcoreapp3.1/OperatorOverloadApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/OperatorOverloadApp/OperatorOverloadApp/obj/Debug/netcoreapp3.1/OperatorOverloadApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/OperatorOverloadApp/OperatorOverloadApp/obj/Debug/netcoreapp3.1/OperatorOverloadApp.AssemblyInfo.cs
+/Users/saultobias/Projects/OperatorOverloadApp/OperatorOverloadApp/obj/Debug/netcoreapp3.1/OperatorOverloadApp.dll
+/Users/saultobias/Projects/OperatorOverloadApp/OperatorOverloadApp/obj/Debug/netcoreapp3.1/OperatorOverloadApp.pdb
+/Users/saultobias/Projects/OperatorOverloadApp/OperatorOverloadApp/obj/Debug/netcoreapp3.1/OperatorOverloadApp.genruntimeconfig.cache
