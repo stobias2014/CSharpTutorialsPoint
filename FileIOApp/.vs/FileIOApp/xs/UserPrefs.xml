@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{BF8721AD-7CC0-4F49-9A2A-3D6D5314D292}|Default">
-  <MonoDevelop.Ide.ItemProperties.ExceptionApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ExceptionApp/Program.cs">
+﻿<Properties StartupConfiguration="{47F1AE1E-FB96-4BA7-9C83-7B1EA5BA038B}|Default">
+  <MonoDevelop.Ide.ItemProperties.FileIOApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FileIOApp/Program.cs">
     <Files>
-      <File FileName="ExceptionApp/Program.cs" Line="46" Column="78" />
+      <File FileName="FileIOApp/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ExceptionApp" expanded="True">
-            <Node name="ExceptionApp" expanded="True">
+          <Node name="FileIOApp" expanded="True">
+            <Node name="FileIOApp" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

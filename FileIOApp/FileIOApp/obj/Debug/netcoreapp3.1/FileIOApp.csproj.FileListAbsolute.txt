@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/FileIOApp/FileIOApp/bin/Debug/netcoreapp3.1/FileIOApp.deps.json
+/Users/saultobias/Projects/FileIOApp/FileIOApp/bin/Debug/netcoreapp3.1/FileIOApp.runtimeconfig.json
+/Users/saultobias/Projects/FileIOApp/FileIOApp/bin/Debug/netcoreapp3.1/FileIOApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/FileIOApp/FileIOApp/bin/Debug/netcoreapp3.1/FileIOApp.dll
+/Users/saultobias/Projects/FileIOApp/FileIOApp/bin/Debug/netcoreapp3.1/FileIOApp.pdb
+/Users/saultobias/Projects/FileIOApp/FileIOApp/obj/Debug/netcoreapp3.1/FileIOApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/FileIOApp/FileIOApp/obj/Debug/netcoreapp3.1/FileIOApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/FileIOApp/FileIOApp/obj/Debug/netcoreapp3.1/FileIOApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/FileIOApp/FileIOApp/obj/Debug/netcoreapp3.1/FileIOApp.AssemblyInfo.cs
+/Users/saultobias/Projects/FileIOApp/FileIOApp/obj/Debug/netcoreapp3.1/FileIOApp.dll
+/Users/saultobias/Projects/FileIOApp/FileIOApp/obj/Debug/netcoreapp3.1/FileIOApp.pdb
+/Users/saultobias/Projects/FileIOApp/FileIOApp/obj/Debug/netcoreapp3.1/FileIOApp.genruntimeconfig.cache
