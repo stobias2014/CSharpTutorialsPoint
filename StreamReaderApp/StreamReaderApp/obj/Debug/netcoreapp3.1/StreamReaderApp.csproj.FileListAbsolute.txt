@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/StreamReaderApp/StreamReaderApp/bin/Debug/netcoreapp3.1/StreamReaderApp.deps.json
+/Users/saultobias/Projects/StreamReaderApp/StreamReaderApp/bin/Debug/netcoreapp3.1/StreamReaderApp.runtimeconfig.json
+/Users/saultobias/Projects/StreamReaderApp/StreamReaderApp/bin/Debug/netcoreapp3.1/StreamReaderApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/StreamReaderApp/StreamReaderApp/bin/Debug/netcoreapp3.1/StreamReaderApp.dll
+/Users/saultobias/Projects/StreamReaderApp/StreamReaderApp/bin/Debug/netcoreapp3.1/StreamReaderApp.pdb
+/Users/saultobias/Projects/StreamReaderApp/StreamReaderApp/obj/Debug/netcoreapp3.1/StreamReaderApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/StreamReaderApp/StreamReaderApp/obj/Debug/netcoreapp3.1/StreamReaderApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/StreamReaderApp/StreamReaderApp/obj/Debug/netcoreapp3.1/StreamReaderApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/StreamReaderApp/StreamReaderApp/obj/Debug/netcoreapp3.1/StreamReaderApp.AssemblyInfo.cs
+/Users/saultobias/Projects/StreamReaderApp/StreamReaderApp/obj/Debug/netcoreapp3.1/StreamReaderApp.dll
+/Users/saultobias/Projects/StreamReaderApp/StreamReaderApp/obj/Debug/netcoreapp3.1/StreamReaderApp.pdb
+/Users/saultobias/Projects/StreamReaderApp/StreamReaderApp/obj/Debug/netcoreapp3.1/StreamReaderApp.genruntimeconfig.cache
