@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/RegularExpressionApp/RegularExpressionApp/bin/Debug/netcoreapp3.1/RegularExpressionApp.deps.json
+/Users/saultobias/Projects/RegularExpressionApp/RegularExpressionApp/bin/Debug/netcoreapp3.1/RegularExpressionApp.runtimeconfig.json
+/Users/saultobias/Projects/RegularExpressionApp/RegularExpressionApp/bin/Debug/netcoreapp3.1/RegularExpressionApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/RegularExpressionApp/RegularExpressionApp/bin/Debug/netcoreapp3.1/RegularExpressionApp.dll
+/Users/saultobias/Projects/RegularExpressionApp/RegularExpressionApp/bin/Debug/netcoreapp3.1/RegularExpressionApp.pdb
+/Users/saultobias/Projects/RegularExpressionApp/RegularExpressionApp/obj/Debug/netcoreapp3.1/RegularExpressionApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/RegularExpressionApp/RegularExpressionApp/obj/Debug/netcoreapp3.1/RegularExpressionApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/RegularExpressionApp/RegularExpressionApp/obj/Debug/netcoreapp3.1/RegularExpressionApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/RegularExpressionApp/RegularExpressionApp/obj/Debug/netcoreapp3.1/RegularExpressionApp.AssemblyInfo.cs
+/Users/saultobias/Projects/RegularExpressionApp/RegularExpressionApp/obj/Debug/netcoreapp3.1/RegularExpressionApp.dll
+/Users/saultobias/Projects/RegularExpressionApp/RegularExpressionApp/obj/Debug/netcoreapp3.1/RegularExpressionApp.pdb
+/Users/saultobias/Projects/RegularExpressionApp/RegularExpressionApp/obj/Debug/netcoreapp3.1/RegularExpressionApp.genruntimeconfig.cache

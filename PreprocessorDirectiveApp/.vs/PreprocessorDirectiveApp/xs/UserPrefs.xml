@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{A834D47F-E1B7-4149-B4B7-048469537503}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="NameSpaceApp/Program.cs">
+﻿<Properties StartupConfiguration="{10A3C784-8E7D-40D7-9F83-580FC3FCE44B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PreprocessorDirectiveApp/Program.cs">
     <Files>
-      <File FileName="NameSpaceApp/Program.cs" Line="7" Column="37" />
+      <File FileName="PreprocessorDirectiveApp/Program.cs" Line="16" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="NameSpaceApp" expanded="True">
-            <Node name="NameSpaceApp" expanded="True">
+          <Node name="PreprocessorDirectiveApp" expanded="True">
+            <Node name="PreprocessorDirectiveApp" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.NameSpaceApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PreprocessorDirectiveApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

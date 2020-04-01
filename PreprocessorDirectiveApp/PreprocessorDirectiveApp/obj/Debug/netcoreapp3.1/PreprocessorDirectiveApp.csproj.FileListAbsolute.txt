@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/PreprocessorDirectiveApp/PreprocessorDirectiveApp/bin/Debug/netcoreapp3.1/PreprocessorDirectiveApp.deps.json
+/Users/saultobias/Projects/PreprocessorDirectiveApp/PreprocessorDirectiveApp/bin/Debug/netcoreapp3.1/PreprocessorDirectiveApp.runtimeconfig.json
+/Users/saultobias/Projects/PreprocessorDirectiveApp/PreprocessorDirectiveApp/bin/Debug/netcoreapp3.1/PreprocessorDirectiveApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/PreprocessorDirectiveApp/PreprocessorDirectiveApp/bin/Debug/netcoreapp3.1/PreprocessorDirectiveApp.dll
+/Users/saultobias/Projects/PreprocessorDirectiveApp/PreprocessorDirectiveApp/bin/Debug/netcoreapp3.1/PreprocessorDirectiveApp.pdb
+/Users/saultobias/Projects/PreprocessorDirectiveApp/PreprocessorDirectiveApp/obj/Debug/netcoreapp3.1/PreprocessorDirectiveApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/PreprocessorDirectiveApp/PreprocessorDirectiveApp/obj/Debug/netcoreapp3.1/PreprocessorDirectiveApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/PreprocessorDirectiveApp/PreprocessorDirectiveApp/obj/Debug/netcoreapp3.1/PreprocessorDirectiveApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/PreprocessorDirectiveApp/PreprocessorDirectiveApp/obj/Debug/netcoreapp3.1/PreprocessorDirectiveApp.AssemblyInfo.cs
+/Users/saultobias/Projects/PreprocessorDirectiveApp/PreprocessorDirectiveApp/obj/Debug/netcoreapp3.1/PreprocessorDirectiveApp.dll
+/Users/saultobias/Projects/PreprocessorDirectiveApp/PreprocessorDirectiveApp/obj/Debug/netcoreapp3.1/PreprocessorDirectiveApp.pdb
+/Users/saultobias/Projects/PreprocessorDirectiveApp/PreprocessorDirectiveApp/obj/Debug/netcoreapp3.1/PreprocessorDirectiveApp.genruntimeconfig.cache
