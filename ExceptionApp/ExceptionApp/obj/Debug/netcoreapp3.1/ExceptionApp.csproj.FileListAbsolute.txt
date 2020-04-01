@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/ExceptionApp/ExceptionApp/bin/Debug/netcoreapp3.1/ExceptionApp.deps.json
+/Users/saultobias/Projects/ExceptionApp/ExceptionApp/bin/Debug/netcoreapp3.1/ExceptionApp.runtimeconfig.json
+/Users/saultobias/Projects/ExceptionApp/ExceptionApp/bin/Debug/netcoreapp3.1/ExceptionApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/ExceptionApp/ExceptionApp/bin/Debug/netcoreapp3.1/ExceptionApp.dll
+/Users/saultobias/Projects/ExceptionApp/ExceptionApp/bin/Debug/netcoreapp3.1/ExceptionApp.pdb
+/Users/saultobias/Projects/ExceptionApp/ExceptionApp/obj/Debug/netcoreapp3.1/ExceptionApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/ExceptionApp/ExceptionApp/obj/Debug/netcoreapp3.1/ExceptionApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/ExceptionApp/ExceptionApp/obj/Debug/netcoreapp3.1/ExceptionApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/ExceptionApp/ExceptionApp/obj/Debug/netcoreapp3.1/ExceptionApp.AssemblyInfo.cs
+/Users/saultobias/Projects/ExceptionApp/ExceptionApp/obj/Debug/netcoreapp3.1/ExceptionApp.dll
+/Users/saultobias/Projects/ExceptionApp/ExceptionApp/obj/Debug/netcoreapp3.1/ExceptionApp.pdb
+/Users/saultobias/Projects/ExceptionApp/ExceptionApp/obj/Debug/netcoreapp3.1/ExceptionApp.genruntimeconfig.cache
