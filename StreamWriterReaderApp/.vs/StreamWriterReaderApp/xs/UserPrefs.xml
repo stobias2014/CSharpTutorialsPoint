@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{14D047D8-7667-47E4-91F6-A930799BE57B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="StreamReaderApp/Program.cs">
+﻿<Properties StartupConfiguration="{E0DF5F9C-1EBF-4FE0-8799-B99FB63F000E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StreamWriterReaderApp/Program.cs">
     <Files>
-      <File FileName="StreamReaderApp/Program.cs" Line="24" Column="49" />
+      <File FileName="StreamWriterReaderApp/Program.cs" Line="2" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="StreamReaderApp" expanded="True">
-            <Node name="StreamReaderApp" expanded="True">
+          <Node name="StreamWriterReaderApp" expanded="True">
+            <Node name="StreamWriterReaderApp" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,8 +15,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.StreamReaderApp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StreamWriterReaderApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
