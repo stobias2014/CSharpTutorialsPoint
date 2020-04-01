@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{50308C1A-A487-47C3-A086-D9D82A27761E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="InterfaceApp/Program.cs">
+﻿<Properties StartupConfiguration="{A834D47F-E1B7-4149-B4B7-048469537503}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NameSpaceApp/Program.cs">
     <Files>
-      <File FileName="InterfaceApp/Program.cs" Line="63" Column="34" />
+      <File FileName="NameSpaceApp/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="InterfaceApp" expanded="True">
-            <Node name="InterfaceApp" expanded="True">
+          <Node name="NameSpaceApp" expanded="True">
+            <Node name="NameSpaceApp" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,11 +15,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NameSpaceApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.InterfaceApp PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

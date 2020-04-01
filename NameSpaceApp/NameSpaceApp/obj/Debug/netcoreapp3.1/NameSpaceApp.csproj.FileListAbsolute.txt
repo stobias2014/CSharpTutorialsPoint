@@ -1,0 +1,12 @@
+/Users/saultobias/Projects/NameSpaceApp/NameSpaceApp/bin/Debug/netcoreapp3.1/NameSpaceApp.deps.json
+/Users/saultobias/Projects/NameSpaceApp/NameSpaceApp/bin/Debug/netcoreapp3.1/NameSpaceApp.runtimeconfig.json
+/Users/saultobias/Projects/NameSpaceApp/NameSpaceApp/bin/Debug/netcoreapp3.1/NameSpaceApp.runtimeconfig.dev.json
+/Users/saultobias/Projects/NameSpaceApp/NameSpaceApp/bin/Debug/netcoreapp3.1/NameSpaceApp.dll
+/Users/saultobias/Projects/NameSpaceApp/NameSpaceApp/bin/Debug/netcoreapp3.1/NameSpaceApp.pdb
+/Users/saultobias/Projects/NameSpaceApp/NameSpaceApp/obj/Debug/netcoreapp3.1/NameSpaceApp.csprojAssemblyReference.cache
+/Users/saultobias/Projects/NameSpaceApp/NameSpaceApp/obj/Debug/netcoreapp3.1/NameSpaceApp.csproj.CoreCompileInputs.cache
+/Users/saultobias/Projects/NameSpaceApp/NameSpaceApp/obj/Debug/netcoreapp3.1/NameSpaceApp.AssemblyInfoInputs.cache
+/Users/saultobias/Projects/NameSpaceApp/NameSpaceApp/obj/Debug/netcoreapp3.1/NameSpaceApp.AssemblyInfo.cs
+/Users/saultobias/Projects/NameSpaceApp/NameSpaceApp/obj/Debug/netcoreapp3.1/NameSpaceApp.dll
+/Users/saultobias/Projects/NameSpaceApp/NameSpaceApp/obj/Debug/netcoreapp3.1/NameSpaceApp.pdb
+/Users/saultobias/Projects/NameSpaceApp/NameSpaceApp/obj/Debug/netcoreapp3.1/NameSpaceApp.genruntimeconfig.cache
