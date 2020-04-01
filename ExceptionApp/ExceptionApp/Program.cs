@@ -8,7 +8,7 @@ using System;
 
 namespace ExceptionApp
 {
-    class DivNumbers
+    public class DivNumbers
     {
         private int result;
 
@@ -32,13 +32,41 @@ namespace ExceptionApp
         
     }
 
+    public class TemperatureIsZeroException : Exception {
+        public TemperatureIsZeroException(string message) : base(message) {}
+    }
+
+
+    public class Temperature {
+        int temp = 0;
+
+        public void showTemp()
+        {
+            if (temp == 0) {
+                throw new TemperatureIsZeroException("Zero Temperature Found");
+            } else {
+                Console.WriteLine("Temperature: {0}", temp);
+            }
+
+        }
+    }
+
+
     class Program
     {
         static void Main(string[] args)
         {
             DivNumbers dv = new DivNumbers();
+            Temperature t = new Temperature();
 
-            dv.division(26, 0);
+            dv.division(25, 5);
+            try
+            {
+                t.showTemp();
+            } catch (TemperatureIsZeroException te)
+            {
+                Console.WriteLine("TemperatureIsZeroException: {0}", te);
+            }
         }
     }
 }
